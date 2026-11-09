@@ -19426,7 +19426,7 @@ _.e=null
 _.f=b
 _.r=0
 _.y=$
-_.Q=1.5
+_.Q=1.4
 _.ay=_.ax=!1
 _.x1=_.to=_.ry=_.rx=_.RG=_.R8=_.p4=_.p3=_.p2=_.p1=_.ok=_.k4=_.k2=_.id=_.fy=_.fx=_.dy=_.db=$
 _.x2=!1
@@ -19462,8 +19462,9 @@ _.xY=_.nO=!1
 _.xZ=h
 _.k_=i
 _.qV=0
-_.lA=_.i8=1
-_.qK=2.75
+_.i8=1
+_.lA=3
+_.qK=4.75
 _.h8=j
 _.xQ=k
 _.lw=0
@@ -60004,8 +60005,8 @@ l=$.dV()
 m.push(A.cM(n,A.dn(n,A.c1(n,A.cg(A.cc(o.S?"\u25b6":"\u23f8",n,n),n,n),B.q,n,n,l,n,40,n,n,n,n,n,40),B.V,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.a5Y(o),n,n,n),n,n,0,n,40,n))
 l=$.dV()
 s=o.Q
-if(s===0.4)s="slow"
-else s=s===1.5?"med":"fast"
+if(s===0.6)s="slow"
+else s=s===1.4?"med":"fast"
 m.push(A.cM(n,A.dn(n,A.c1(n,A.cg(A.cc(s,n,n),n,n),B.q,n,n,l,n,40,n,n,n,n,n,40),B.V,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.a5Z(o),n,n,n),n,n,0,n,80,n))
 l=$.dV()
 s=o.lA
@@ -60213,9 +60214,9 @@ s.S=!s.S},
 $S:0}
 A.a5Z.prototype={
 $0(){var s=this.a,r=s.Q
-if(r===0.4)s.Q=1.5
-else if(r===1.5)s.Q=2.2
-else if(r===2.2)s.Q=0.4},
+if(r===0.6)s.Q=1.4
+else if(r===1.4)s.Q=2.2
+else if(r===2.2)s.Q=0.6},
 $S:0}
 A.a6_.prototype={
 $0(){var s=this.a,r=s.lA
