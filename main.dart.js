@@ -60225,7 +60225,7 @@ else if(r===3)s.lA=1},
 $S:0}
 A.a60.prototype={
 $0(){var s=this.a
-if((s.qK+=0.25)>3)s.qK=1.25},
+if((s.qK+=0.25)>7)s.qK=1.25},
 $S:0}
 A.a61.prototype={
 $0(){var s=this.a
